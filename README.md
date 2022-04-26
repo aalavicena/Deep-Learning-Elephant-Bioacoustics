@@ -5,6 +5,7 @@ This repository is provided as a supplementary material for Naufal Rahman Avicen
 This repository consists of the main codes for our study. 
 
 Part of the codes were adopted from several repositories:
-https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classification-step-by-step-cebc936bbe5 (Main Architecture)
-https://github.com/kuangliu/pytorch-metrics (Performance Metrics)
-https://medium.com/dataseries/k-fold-cross-validation-with-pytorch-and-sklearn-d094aa00105f (K-Fold Cross Validation)
+
+1. https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classification-step-by-step-cebc936bbe5 (Main Architecture)
+2. https://github.com/kuangliu/pytorch-metrics (Performance Metrics)
+3. https://medium.com/dataseries/k-fold-cross-validation-with-pytorch-and-sklearn-d094aa00105f (K-Fold Cross Validation)
