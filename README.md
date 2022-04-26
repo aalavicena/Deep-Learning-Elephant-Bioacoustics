@@ -2,7 +2,7 @@
 
 This repository is provided as a supplementary material for Naufal Rahman Avicena's Final Year Project (FYP) titled "CNN-based Bioacoustics Classification of Elephant and Non-Elephant Sounds".
 
-This repository consists of the main codes for our study. 
+This repository consists of the main codes for our study. The codes are best to run on Jupyter Notebook.
 
 Part of the codes were adopted from several repositories:
 
