@@ -1,8 +1,8 @@
-# FYP-Project-Audio-Classification-of-Elephants-and-Non-Elephants-Sounds
+# Deep learning models performance in examining Asian elephant (_Elephas maximus_) sounds from Sri Lanka and Malaysia with considerations for applications
 
-This repository is provided as a supplementary material for Naufal Rahman Avicena's Final Year Project (FYP) titled "CNN-based Bioacoustics Classification of Elephant and Non-Elephant Sounds".
+This repository is provided as a supplementary material to Avicena et al. (in review). It consists of the data pre-processing, CNN architecture, and inference codes for replication of the study. Subset of the data for replication purposes are provided by Trunks and Leaves Inc. and Management and Ecology of Malaysian Elephants (MEME). Please do not redistribute the data without permission. 
 
-This repository consists of the main codes for our study. The codes are best to run on Jupyter Notebook.
+Before starting, you will need to install several software and modules in your system:
 
 Part of the codes were adopted from several repositories:
 
