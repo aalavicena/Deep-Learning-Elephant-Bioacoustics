@@ -1,6 +1,6 @@
 # Deep learning models performance in examining Asian elephant (_Elephas maximus_) sounds from Sri Lanka and Malaysia with considerations for applications
 
-This repository is provided as a supplementary material to Avicena et al. (in review). Subset of the data for replication purposes are provided by Trunks and Leaves Inc. and Management and Ecology of Malaysian Elephants (MEME). Please do not redistribute the data without permission. 
+This repository is provided as a supplementary material to Avicena et al. (in review). Subset of the data for replication purposes are provided by Trunks and Leaves Inc. and Management and Ecology of Malaysian Elephants (MEME). Data can be obtained for analysis under formal request to the authors. 
 
 ## Pre-requisites
 ### Software requirements
@@ -26,7 +26,7 @@ Other required modules are listed in each notebook. Please install acoordingly.
 
 ## Contents
 The repositories include the following materials:
-  1. Model training.ipynb [Contains codes for data pre-processing, CNN architecture, training loop, and model evaluation. Run this notebook when you want to train a model from scratch]
+  1. Model training.ipynb [Contains codes for data pre-processing, CNN architecture, training loop, and model evaluation]
   2. Inference on unseen data.ipynb [Contains codes for inferring unseen data using the trained model]
   3. CNN8.pt [Our best performing model in a state dictionary format]
   4. data [Folder consisting of sample data]
