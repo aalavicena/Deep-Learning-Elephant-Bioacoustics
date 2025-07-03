@@ -1,6 +1,6 @@
 # Deep learning models performance in examining Asian elephant (_Elephas maximus_) sounds from Sri Lanka and Malaysia with considerations for applications
 
-This repository is provided as a supplementary material to Avicena et al. (in review). Data can be obtained under formal request to the authors. 
+This repository is provided as a supplementary material to Avicena et al. (2025). Data can be obtained under formal request to the authors. 
 
 ## Pre-requisites
 ### Software requirements
